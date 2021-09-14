@@ -1,0 +1,11 @@
+	{
+	"disableAutoUpdate": false,
+	"name": "Calculator",
+	"author": "odukjung",
+	"description": "Calculator in Game Tera",
+	"version": "1.0",
+	"options": {
+		"niceName": "Calculator"
+	},
+	"servers": [""]
+}
